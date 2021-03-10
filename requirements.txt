@@ -4,8 +4,6 @@ cycler==0.10.0
 entrypoints==0.3
 jedi==0.17.0
 jupyter==1.0.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 olefile==0.46
 pywin32==227
 pywinpty==0.5.7
